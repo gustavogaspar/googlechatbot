@@ -9,5 +9,8 @@
     "@oracle/bots-node-sdk": "^2.0.0",
     "actions-on-google": "^2.4.1",
     "express": "^4.16.4"
+    "scripts": {
+       "start": "node index.js"
+   }
   }
 }
